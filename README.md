@@ -20,3 +20,6 @@ Screenshots:
 I have read some sources, such as lazyfoo, and ask someone for assisting to make this game.
 
 Thank you for playing the game. I hope you will enjoy it.
+
+
+DEMO:https://www.youtube.com/watch?v=gh-4eC17XXk
